@@ -4,6 +4,7 @@ package com.tutorialsninja.qa.testcases;
 
 
 import org.openqa.selenium.By;
+
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
@@ -13,6 +14,8 @@ import org.testng.annotations.Test;
 import com.tutorialsninja.qa.base.Base;
 import com.tutorialsninja.qa.pages.HomePage;
 import com.tutorialsninja.qa.pages.SearchPage;
+
+//updated comment 
 
 public class SearchTest extends Base{
 	
